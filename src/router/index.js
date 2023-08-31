@@ -1,6 +1,6 @@
 // Composables
 import { createRouter, createWebHistory } from 'vue-router'
-
+import { Auth } from "aws-amplify";
 const routes = [
   {
     

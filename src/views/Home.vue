@@ -1,4 +1,8 @@
 <template>
+  <div class="home-page">
+    
+  </div>  
+
   <!-- Removed: <HelloWorld /> -->
   <!-- This view should only show the user what page they are on -->
   <div class="home">
